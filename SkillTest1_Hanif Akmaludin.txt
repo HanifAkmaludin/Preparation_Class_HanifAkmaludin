@@ -1,0 +1,4 @@
+Nama : Hanif Akmaludin
+Umur : 18 Tahun
+Stack : Backend
+Bahasa Pemprograman : Javascript
